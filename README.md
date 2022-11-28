@@ -29,9 +29,9 @@
   <li>
       <h3 color="Red">Görseller:</h3>
       <ul>
-        <li><img src="gorseller/blowUpBox.jpeg"></li>
-        <li><img src="gorseller/blowUpBox2.jpeg"></li>
-        <li><img src="gorseller/blowUpBox3.jpeg"></li>
+        <li><img src="Gorseller/blowUpBox.jpeg"></li>
+        <li><img src="Gorseller/blowUpBox2.jpeg"></li>
+        <li><img src="Gorseller/blowUpBox3.jpeg"></li>
       </ul>
   </li>
 </ol>
