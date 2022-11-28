@@ -26,6 +26,9 @@
          <li>Ahmet Bahadır Aksakal - Çağla Yağmur İçer</li>
     </ul>
   </li>
+  <li>
+      <h3 color="Red">Görseller:</h3>
+  </li>
 </ol>
 
 
