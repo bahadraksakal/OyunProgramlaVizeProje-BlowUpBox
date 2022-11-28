@@ -15,7 +15,7 @@
       <h3 color="Red">Nasıl Oynanır:</h3>
       <ul>
         <li>Oyunun amacı, topu tüm karelere çarptırarak onları yok etmektir.</li>
-        <li>Top zemine değerse 1 canınız gider. Toplam 3 canınız bulunmaktadır. Canlarınız 0 olduğunda oyunu kaybedersiniz ve oyun baştan başlar.</li>
+        <li>Top zemine değerse 1 canınız gider. Toplam 3 canınız bulunmaktadır. Can 0 olduğunda oyunu kaybedersiniz ve oyun baştan başlar.</li>
         <li>Sağ ve Sol yön tuşları ile playeri hareket ettirin. Sol mouse-click ile ateş edin.</li>
         <li>16 bloğu kırdığınızda oyunu kazanırsınız.</li>
       </ul>
