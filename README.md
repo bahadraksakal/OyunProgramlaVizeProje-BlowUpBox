@@ -28,10 +28,12 @@
   </li>
   <li>
       <h3 color="Red">Görseller:</h3>
+      <ul>
+        <li><img src="gorseller/blowUpBox.jpeg"></li>
+        <li><img src="gorseller/blowUpBox2.jpeg"></li>
+        <li><img src="gorseller/blowUpBox3.jpeg"></li>
+      </ul>
   </li>
 </ol>
-![blowUpBox](https://user-images.githubusercontent.com/72493865/204380819-d777d8ad-fce8-4a20-86a4-70ce34bc4214.jpeg)
-![blowUpBox2](https://user-images.githubusercontent.com/72493865/204380843-25491a28-b6b1-49fd-ad42-33a521b9849a.jpeg)
-![blowUpBox3](https://user-images.githubusercontent.com/72493865/204380861-343dc0f9-2e7c-4f4c-abd5-ab06970ad87a.jpeg)
 
 
