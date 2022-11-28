@@ -26,8 +26,7 @@
          <li>Ahmet Bahadır Aksakal - Çağla Yağmur İçer</li>
          <li>Oyun için remote çalışmak pek sağlıklı olmayacağından, oyyun geliştirme sürecinde ekip arkadaşımla birlikte tek bir bilgisayar üzerinden çalıştık</li>
          <li>Projedeki tüm scriptleri ve tasarımları birlikte yaptık.</li>
-         <li>İllaki bir örnek vermek gerekirse: Bahadır Aksakal; oyun pause kısmı, zamanın durması, pause menüsü, getAxis yapısı üzerinden biraz daha fazla   uğraşmıştır. Çağla Yağmur; top fiziği, nişangah, collision, box'lar ve rigidBody'ler üzerinde biraz daha fazla uğraşmıştır.  </li>
-         
+         <li>İllaki bir örnek vermek gerekirse: Bahadır Aksakal; oyun pause kısmı, zamanın durması, pause menüsü, getAxis yapısı üzerinden biraz daha fazla   uğraşmıştır. Çağla Yağmur; top fiziği, nişangah, collision, box'lar ve rigidBody'ler üzerinde biraz daha fazla uğraşmıştır.  </li>         
     </ul>
   </li>
   <li>
