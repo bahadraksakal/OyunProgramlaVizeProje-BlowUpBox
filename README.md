@@ -8,8 +8,7 @@
   <li>
       <h3 color="Red">Projede Kullanılan Teknoloji Ve Diller:</h3>
       <ul>
-        <li>Saf Js ile yazılmıştır</li>
-        <li> CSS ve HTML kodları içerir</li>
+        <li>Unity - C#</li>
       </ul>
   </li>
   <li>
