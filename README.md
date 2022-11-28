@@ -21,7 +21,7 @@
       </ul>
   </li>
   <li>
-      <h3 color="Red">Emeği Geçenler:</h3>
+      <h3 color="Red">Yapımcılar:</h3>
       <ul>
          <li>Ahmet Bahadır Aksakal - Çağla Yağmur İçer</li>
     </ul>
